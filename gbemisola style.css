@@ -8,6 +8,10 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
+h5{
+    color: #3498db;
+}
+
 
 
 p{
@@ -47,6 +51,8 @@ p{
 }
     
 .best{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
     width: 100%;
     background-color: aquamarine;
     padding: 5% 1% 5%;
@@ -206,12 +212,121 @@ p{
     padding:5px;
 }
 
+.email{
+   width:230px;
+   margin:10px;
+}
+
+.email {
+  background: #e4f3f5;
+  background-image: -webkit-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -moz-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -ms-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -o-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: linear-gradient(to bottom, #e4f3f5, #d1ebe2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  
+}
+
+.email:hover {
+  background: #3cfc89;
+  background-image: -webkit-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -o-linear-gradient(top, #3cfc89, #3498db);
+  background-image: linear-gradient(to bottom, #3cfc89, #3498db);
+  text-decoration: none;
+}
+
+.phone{
+    width:230px;
+   margin:10px;
+}
+
+.phone {
+  background: #e4f3f5;
+  background-image: -webkit-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -moz-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -ms-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -o-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: linear-gradient(to bottom, #e4f3f5, #d1ebe2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+ 
+}
+
+.phone:hover {
+  background: #3cfc89;
+  background-image: -webkit-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -o-linear-gradient(top, #3cfc89, #3498db);
+  background-image: linear-gradient(to bottom, #3cfc89, #3498db);
+  text-decoration: none;
+}
+
+.whatsapp{
+        width:230px;
+        margin:10px;
+}
+
+.whatsapp {
+  background: #e4f3f5;
+  background-image: -webkit-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -moz-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -ms-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: -o-linear-gradient(top, #e4f3f5, #d1ebe2);
+  background-image: linear-gradient(to bottom, #e4f3f5, #d1ebe2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  
+
+}
+
+.whatsapp:hover {
+  background: #3cfc89;
+  background-image: -webkit-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfc89, #3498db);
+  background-image: -o-linear-gradient(top, #3cfc89, #3498db);
+  background-image: linear-gradient(to bottom, #3cfc89, #3498db);
+  text-decoration: none;
+}
+
 .contents{
     background-color: #5beb9a;
     padding: 5px 10px;
 }
 
 .ipw{
-    width:5px;
+    width:100%;
+    padding-top: 60px;
  
+}
+
+.tab{
+    margin:20px;
+}
+
+.contact-me{
+ margin:5px 30px 20px 30px;   
 }
